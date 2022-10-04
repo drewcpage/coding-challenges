@@ -1,4 +1,4 @@
-package challenges.recursion.FibonacciNumber;
+package src.recursion;
 
 /**
  * Taken from <a href="https://edabit.com/challenge/t3NThQjrcbjhiF5zt">edabit</a>

@@ -1,12 +1,12 @@
-package challenges.recursion.FibonacciNumber;
+package test.recursion;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import static challenges.recursion.FibonacciNumber.FibonacciNumber.Fibonacci;
+import static src.recursion.FibonacciNumber.Fibonacci;
 
 /**
- * Unit tests for the FibonacciNumber class, examples taken from <a href="https://edabit.com/challenge/t3NThQjrcbjhiF5zt">edabit</a>
+ * Unit tests for the src.recursion.FibonacciNumber class, examples taken from <a href="https://edabit.com/challenge/t3NThQjrcbjhiF5zt">edabit</a>
  */
 public class FibonacciNumberTest {
 
