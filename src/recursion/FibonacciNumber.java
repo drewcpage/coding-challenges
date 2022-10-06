@@ -1,7 +1,9 @@
 package src.recursion;
 
 /**
- * Taken from <a href="https://edabit.com/challenge/t3NThQjrcbjhiF5zt">edabit</a>
+ * Challenge taken from <a href="https://edabit.com/challenge/t3NThQjrcbjhiF5zt">edabit</a><br>
+ * Difficulty: Medium<br>
+ * Tags: algebra, algorithms, loops, recursion
  */
 public class FibonacciNumber
 {
